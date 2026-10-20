@@ -13,7 +13,7 @@ A SQL project analysing the data engineer job market using real world job postin
 
 If you only have a minute, review these:
 
-1. [`01_top_demanded_skills.sql`](1_EDA/01_top_demanded_skills.sql) - demand analysis with multi-table joins
+1. [`01_top_demanded_skills.sql`](1_EDA\01_top_demanded_skills.sql) - demand analysis with multi-table joins
 2. [`02_top_paying_skills.sql`](1_EDA\02_top_paying_skills.sql) - salary analysis with aggregations
 3. [`03_optimal_skills.sql`](1_EDA\03_optimal_skills.sql) - combined demand/salary optimisation query
 
