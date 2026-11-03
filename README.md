@@ -18,4 +18,4 @@ SQL-driven analysis of data engineer job market trends using advanced querying t
 
 End-to-end ELT pipeline transforming raw CSV files into a star schema data warehouse and analytical data marts.
 
-**Skills** Dimensional modeling, ETL pipeline development, data mart architecture, production practices
+**Skills** Dimensional modeling, ELT pipeline development, data mart architecture, production practices
